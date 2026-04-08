@@ -7,7 +7,7 @@ Hello! I'm a System Architect, Full Stack Developer & Power Platform Expert from
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/prittam3000)
-- [Portfolio]([https://www](https://www.sapphirepegasus.com/))
+- [Portfolio](https://www.sapphirepegasus.com/)
 - **Discord**: sapphire_pegasus  
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi! 😊
